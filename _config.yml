@@ -1,2 +1,6 @@
-	name: mrpenguina
-	markdown: kramdown
+# Site wide configuration
+
+title: Academic Website of Ted Laderas
+locale: en_US
+name: mrpenguina
+markdown: kramdown
